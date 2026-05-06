@@ -1,10 +1,9 @@
 ﻿using CustomerAPI.DTOs;
 using CustomerAPI.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-
+// this is my API controller
 namespace CustomerAPI.Controllers
 {
-
     [ApiController]
     [Route("api/[controller]")]
     public class CustomerController : ControllerBase
