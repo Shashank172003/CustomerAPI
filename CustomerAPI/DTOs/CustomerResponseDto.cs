@@ -1,5 +1,5 @@
 ﻿namespace CustomerAPI.DTOs;
-
+// this is a DTO
 public class CustomerResponseDto
 {
     public int Id { get; set; }
